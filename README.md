@@ -1,5 +1,6 @@
 # jesse-squats
 Where it all started:
+<br>
 ![image](https://github.com/ivcained/jesse-squats/assets/86070833/19d951a5-65ff-409a-88b8-029a121c0068)
 
 ![image](https://github.com/ivcained/jesse-squats/assets/86070833/fdb68736-1e0b-437d-953e-74f86e3772ef)
