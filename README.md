@@ -1,4 +1,8 @@
 # jesse-squats
+Update: 21 Dec 2023:
+
+I'm currently building an on-chain game on Unity with the Dojo Engine. I might even integrate the assets from Jesse's Video within this game. If anyone familiar with Unity / Starknet and wants to contribute to a noble cause. Feel Free to reach out. 
+
 Where it all started:
 <br>
 ![image](https://github.com/ivcained/jesse-squats/assets/86070833/19d951a5-65ff-409a-88b8-029a121c0068)
