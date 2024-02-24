@@ -1,4 +1,31 @@
 # jesse-squats
+
+## Problem Statement:
+
+In today's fast-paced digital age, it can be difficult for users to stay motivated in physical activities like squatting due to lack of clear incentives or competition. This lack of motivation and rewards can lead to a decline in the overall health and fitness level of users. 
+
+Moreover, there is an increasing trend towards digital assets being used as rewards instead of traditional currency, but the tracking and verification process for these assets is not easy nor efficient. The current process involves complex code, which might deter many users from participating.
+
+## Solution:
+
+Jessesquats.xyz aims to solve both issues by introducing a mobile application that tracks squatting activities using a device's built-in sensors and includes a live leaderboard for competition. The real-time tracking feature allows the user to see their progress on the leaderboard, encouraging them to keep up the good work.
+
+Furthermore, every 12 hours, users will receive rewards on chain based on their position in the leaderboard, which eliminates the need for a traditional reward system and makes verification of these assets easier and more accessible for all users. This change from digital assets to physical rewards not only motivates users to continue squatting but also increases user engagement as they can see and feel the satisfaction when they reach new positions on the leaderboard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![v3-smokinnn](https://github.com/ivcained/jesse-squats/assets/86070833/e440cec2-c24e-4048-9ebd-146fddbec61a)
 
 Update: 23 Feb 2024:
